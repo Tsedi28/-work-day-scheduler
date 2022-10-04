@@ -1,5 +1,5 @@
 // get and display today's day and date
-var todayDate = moment().format('dddd, MMM Do YYYY');
+var todayDate = moment().format('dddd, MMM Do YYYY | hh:mm a');
 $("#currentDay").html(todayDate);
 
 $(document).ready(function () {
@@ -21,7 +21,7 @@ $(document).ready(function () {
         $(".time-block").each(function () {
             var blockTime = parseInt($(this).attr("id").split("hour")[1]);
 
-            // To check the time and add the classes for background indicators
+            // color code textDiv based on current time
             if (blockTime < timeNow) {
                 $(this).removeClass("future");
                 $(this).removeClass("present");
