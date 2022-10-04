@@ -12,7 +12,7 @@ User Story
 
 Mock-Up:
 
-![app screenshot](/assets/05-third-party-apis-homework-demo.gif)
+![app screenshot](/Assets/images/05-third-party-apis-homework-demo.gif)
 
 Contributor:
 Tsedenia Bogale ©2022 All Rights Reserved.
