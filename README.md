@@ -15,4 +15,4 @@ Mock-Up:
 ![app screenshot](/Assets/images/05-third-party-apis-homework-demo.gif)
 
 Contributor:
-Tsedenia Bogale ©2022 All Rights Reserved.
+Tsedi ©2022 All Rights Reserved.
